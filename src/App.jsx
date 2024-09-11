@@ -1,4 +1,4 @@
-import CustomCard from "./components/cards/card"
+import CustomTodos from "./components/todos/todos"
 
 
 
@@ -7,7 +7,7 @@ import CustomCard from "./components/cards/card"
 const App = () => {
   return (
     <div>
-      <CustomCard />
+      <CustomTodos/>
     </div>
   )
 }
